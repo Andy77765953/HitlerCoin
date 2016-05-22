@@ -1,0 +1,9 @@
+Building HitlerCoin
+
+See doc/readme-qt.rst for instructions on building HitlerCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HitlerCoin.
+
+See doc/build-*.txt for instructions on building HitlerCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HitlerCoin.
